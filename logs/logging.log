@@ -1,0 +1,128 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): poloniex.com:443
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554775338.203696&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554775338.203696&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554775338.203696&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554775338.203696&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546297200.0&end=1554775338.203696&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554775672.578397&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554775672.578397&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554775672.578397&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554775672.578397&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546297200.0&end=1554775672.578397&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554822819.83781&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554822819.83781&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554822819.83781&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554822819.83781&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554822842.725763&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554822842.725763&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554822842.725763&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554822842.725763&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546297200.0&end=1554822842.725763&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554823019.886748&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554823168.663826&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554823182.874525&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554823307.345211&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554823307.345211&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554823307.345211&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554823307.345211&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546297200.0&end=1554823307.345211&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554823841.078147&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554823862.233975&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824013.293309&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824134.866205&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554824134.866205&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554824134.866205&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554824134.866205&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546297200.0&end=1554824134.866205&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824218.182624&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554824218.182624&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554824218.182624&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554824218.182624&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546297200.0&end=1554824218.182624&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824524.302285&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824767.937841&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824778.344232&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824823.876609&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824852.231984&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554824852.231984&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554824852.231984&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554824852.231984&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546297200.0&end=1554824852.231984&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554824956.27963&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546297200.0&end=1554824956.27963&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546297200.0&end=1554824956.27963&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546297200.0&end=1554824956.27963&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546297200.0&end=1554824956.27963&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554825008.418753&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554825077.951846&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554825526.97683&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554825606.437814&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554825685.822686&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554825736.680586&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554825767.588499&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554830663.447253&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554830683.352252&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554830728.093601&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554830775.143369&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554830905.4009&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554830932.838985&command=returnChartData HTTP/1.1" 200 None
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=18.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554832793.750439&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554832820.010208&command=returnChartData HTTP/1.1" 200 None
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=20.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554832986.117333&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554833211.687609&command=returnChartData HTTP/1.1" 200 None
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=20.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554833293.276584&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554833404.611428&command=returnChartData HTTP/1.1" 200 None
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=20.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554834219.94615&command=returnChartData HTTP/1.1" 200 None
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=20.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1554834669.378849&command=returnChartData HTTP/1.1" 200 None
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=20.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546297200.0&end=1555070982.511023&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1556661600.0&end=1555071007.975496&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1556661600.0&end=1555071007.975496&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1556661600.0&end=1555071007.975496&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1556661600.0&end=1555071007.975496&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1556661600.0&end=1555071007.975496&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=20.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=USDC_BTC&period=300&start=1546642800.0&end=1555071021.051242&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_ETH&period=300&start=1546642800.0&end=1555071021.051242&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XMR&period=300&start=1546642800.0&end=1555071021.051242&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_XRP&period=300&start=1546642800.0&end=1555071021.051242&command=returnChartData HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://poloniex.com:443 "GET /public?currencyPair=BTC_DOGE&period=300&start=1546642800.0&end=1555071021.051242&command=returnChartData HTTP/1.1" 200 None
+DEBUG:root:Historical Data written to CSV
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.font_manager:findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=20.0 to DejaVu Sans ('G:\\Users\\x\\Anaconda3\\envs\\algotrader\\lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf') with score of 0.050000.
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
+DEBUG:matplotlib.axes._base:update_title_pos
