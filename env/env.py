@@ -1,8 +1,5 @@
-import numpy as np
-import pandas as pd
 from poloniex import poloniex
-import po_api
-import trader
+from env import po_api, trader
 
 
 class Env:

@@ -1,19 +1,13 @@
-import time
 import argparse
 import csv
-import json
 import os
 import logging
 
 from poloniex import poloniex
-from datetime import date, datetime
-from matplotlib import pyplot as plt
+from datetime import datetime
 
-import po_api
-import hyperparams as hy
-from preprocessor import Preprocessor
-import pandas as pd
-import numpy as np
+from env import hyperparams as hy, po_api
+from env.preprocessor import Preprocessor
 
 
 class Trader:
