@@ -16,7 +16,6 @@ import pandas as pd
 import numpy as np
 
 
-
 class Trader:
 
     def __init__(self, *argv):

@@ -20,17 +20,45 @@ class Env:
             'SELL_BTC_XMR',
             'SELL_BTC_XRP',
             'SELL_BTC_DOGE',
+            'update_orders',
         ]
         self.state = []
+        self.reward = None
+        self.own_orders = conn.returnOpenOrders()
 
     def _update_orders(self):
         self.activeOrders = conn.returnOrderBook('all')
 
-    def execute(self, action):
-        pass
+    def execute(self, action, rate, amount):
+        if action == 'BUY_USDC_BTC':
+            self.active_trader.buy_order('USDC_BTC', rate, amount)
+            self.return_rewards()
+        if action == 'BUY_BTC_ETH':
+            pass
+        if action == 'BUY_BTC_XMR':
+            pass
+        if action == 'BUY_BTC_XRP':
+            pass
+        if action == 'BUY_BTC_DOGE':
+            pass
+        if action == 'SELL_USDC_BTC':
+            pass
+        if action == 'SELL_BTC_ETH':
+            pass
+        if action == 'SELL_BTC_XMR':
+            pass
+        if action == 'SELL_BTC_XRP':
+            pass
+        if action == 'SELL_BTC_DOGE':
+            pass
+        if action == 'updated_orders':
+            pass
 
     def reset(self):
         self.state = []
+
+    def return_rewards(self):
+        pass
 
 
 conn = poloniex.Poloniex(po_api.api_key, po_api.secret)
